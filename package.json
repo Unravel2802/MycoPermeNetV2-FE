@@ -1,0 +1,50 @@
+{
+  "name": "mycopermenet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.13.8",
+    "@apollo/client-integration-nextjs": "^0.12.2",
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@fontsource/roboto": "^4.5.1",
+    "@mui/material": "^5.2.2",
+    "@rdkit/rdkit": "^2025.3.2-1.0.0",
+    "@types/chroma-js": "^3.1.1",
+    "@types/d3": "^7.4.3",
+    "@types/heatmap.js": "^2.0.37",
+    "@types/svg-path-bounds": "^1.0.2",
+    "chart.js": "^4.4.9",
+    "chroma-js": "^2.4.2",
+    "d3": "^7.6.1",
+    "graphql": "^16.11.0",
+    "heatmap.js": "^2.0.5",
+    "kdbush": "^4.0.2",
+    "next": "15.3.1",
+    "node": "^23.0.0",
+    "primeflex": "^4.0.0",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-dropzone": "^14.2.2",
+    "react-loading-overlay-ts": "^2.0.0",
+    "serve": "^14.0.1",
+    "simple-statistics": "^7.7.0",
+    "svg-path-bounds": "^1.0.2",
+    "typescript": "^4.1.3",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
